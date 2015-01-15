@@ -1,0 +1,2 @@
+# shriji
+my first repository
